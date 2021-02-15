@@ -1,0 +1,139 @@
+{
+  "Name": "Revathi Vaidhyanathan",
+  "PhoneNumber": "437-238-7233",
+  "Email": "revamail212@gmail.com",
+  "Location": "Toronto,Canada",
+  "About": "I am Full Stack Developer with 10 years of experience in software development. I have developed applications using Microsoft technologies. I am passionate towards coding.",
+  "ProfileSummary": [
+    "Having 10+ years of Information technology experience in Full stack development using Microsoft technologies and Front-end developments",
+    "Have experience in various Microsoft technology like ASP, .NET, ASP.NET, ASP.NET Web API, ASP.NET MVC 4.5, Dotnetnuke, Web service, WCF, SharePoint and Microsoft CRM.",
+    "Have experience in UI development technology like HTML, HTML5 and CSHTML.",
+    "Have experience in scripting technology like JavaScript, JQuery, Ajax, Angular, Bootstrap",
+    "Extensive experience in SQL Server Database design- Tables, Views, developing T-SQL queries, stored procedures, and triggers.",
+    "Have experience in development and deployment of Data warehousing (ETL) tools like SSIS, SSRS and Scribe.",
+    "Have exposure to ASP.NET Core technology.",
+    "Have worked with JSON, XML, XSLT, XSD file data transformation tasks-Sending, receiving, transformation and loading to databases.",
+    "Have experience in data mapping from multiple disparate data sources.",
+    "Have experience in responsive web design using Media queries.",
+    "Having experience in style sheets-CSS, CSS3 and SASS.",
+    "Have extensive experience in client facing web applications.",
+    "Having experience is using source control systems like Team Foundation Server (TFS), CVS and SVN.",
+    "Having experience in Banking, Capital Markets, Communication, Healthcare domain and Logistics domains.",
+    "Having experience in Document management systems-SharePoint.",
+    "Have experience in using tools like JIRA, Rally and HP quality centre.",
+    "Have involved in the complete project life cycle of SDLC.",
+    "Have worked in waterfall and Agile Methodology"
+  ],
+  "TechnologyStack": {
+    "Microsoft Technology": "ASP,DotnetNuke,ASP.NET,ASP.NET MVC,ASP.NET Core, WCF, SharePoint WSS 3.0, BIZTALK, SQL Server 2000, SQL Server 2005, SQL Server 2008,SSIS ,CRM4.0 ,SSRS,Scribe,CRM Plugin Development",
+    "ETL Tools": "SSIS,SSRS,Scribe and BizTalk",
+    "Programming Languages": "C#,VB",
+    "Databasesand Tools": "SQL,Oracle,MSAccess,Sybase ASE,Sybase IQ",
+    "Fron End Technology": "JavaScript, VBScript,Angular,Jquery,Bootstrap,HTML,HTML5,CSS,CSS3,SASS",
+    "Configuration Tools": "CVS,SVN and TFS(Team Foundation Server)"
+
+  },
+  "Projects": [
+    {
+      "Company": "Cognizant Technology Solutions",
+      "Designation": "Associate-Projects",
+      "StartDate": "2016-08-01",
+      "EndDate": "2017-08-31",
+      "RolesPerformed": [
+        "Understand and gather business requirement from client.",
+        "Analyse and determine solution for the business proposal",
+        "Developed the Single page ASP.NET MVC 4.5 application.",
+        "Developed Restful .Net Web API Service which sends and receives JSON data.",
+        "Worked in the JSON data reading and sending to data store.",
+        "Developed Front end web design using HTML5 and CSHTML, Angular and Bootstrap.",
+        "Worked in Style Sheets-CSS3 and SASS.",
+        "Have implemented the Responsive Web Design using Media Queries.",
+        "Participated actively in all the stages of the Agile Development.",
+        "Testing the modules developed.",
+        "Maintained the source code using Team Foundation Server (TFS).",
+        "Support during the release. Fix the Customer issues",
+        "TECHNOLOGIES USED: ASP.NET 4.5, C#, ASP.NET MVC 4.5, ASP.NET WEBAPI, JavaScript, Angular , Bootstrap, NodeJS, CSS3, SASS, TFS and HTML5"
+      ],
+      "Location": "Toronto,Canada"
+
+    },
+    {
+      "Company": "Cognizant Technology Solutions",
+      "Designation": "Associate-Projects",
+      "StartDate": "2013-07-22",
+      "EndDate": "2015-07-10",
+      "RolesPerformed": [
+        "Deployed Microsoft CRM web application.",
+        "Worked in data manipulation from different data sources",
+        "Developed and Maintained SSIS packages and SQL Jobs.",
+        "Developed and Maintained SSRS Reports.",
+        "Developed Scribe Jobs and CRM Plugins.",
+        "Maintained the source code using TFS and SVN.",
+        "Upgraded application software and technology.",
+        "TECHNOLOGIES USED IN THIS PROJECT: CRM 4.0, ASP.NET 2.0,ASP.NET 4.0.,  Scribe, SSIS, SSRS, SQL 2005, SQL 2008, Sybase ASE, Sybase IQ, OBI, C#, JavaScript, BDVision tool, XML,TFS and CRM 4.0 Plugin development"
+      ],
+      "Location": "Toronto,Canada"
+
+    },
+    {
+      "Company": "Cognizant Technology Solutions",
+      "Designation": "Associate-Projects",
+      "StartDate": "2010-04-30",
+      "EndDate": "2013-07-21",
+      "RolesPerformed": [
+        "Developed and enhanced web application using ASP.NET, VB.NET, WCF, Silverlight and HTML.",
+        "Created SSIS packages, SSRS reports and SQL jobs",
+        "Worked in Front End, Business logic layer and Data Layer.",
+        "Created stored procedures, triggers and functions using T-SQL.",
+        "Acted as module lead for the .NET group of application.",
+        "Allocation of task to the team members, status tracking and bringing the task to closure status.",
+        "Participated in all phase of the project – Requirement gathering from client, analysing, developing and deploying.",
+        "Worked in the CSS style sheets as per the requirements.",
+        "Worked in XML and EXCEL file upload and read.",
+        "Involved in creating technical design documents.",
+        "Created Unit Test Cases and Involved in Unit Testing.",
+        "Maintained the source code using TFS.",
+        "Deployment to production.",
+        "Monitoring and Creating the SQL jobs.",
+        "TECHNOLOGIES USED IN THIS PROJECT: ASP.NET, Javascript, CSS, SQL SERVER, SQL SERVER 2008, DTS,SSRS, SSIS.WCF, Silverlight, VB.NET and TFS."
+      ],
+      "Location": "Chennai,India"
+
+    },
+    {
+      "Company": "iLink Technology Solutions",
+      "Designation": "Senior Software Engineer",
+      "StartDate": "2005-12-26",
+      "EndDate": "2010-04-16",
+      "RolesPerformed": [
+        "Involved in requirement gathering from client and onsite coordination.",
+        "Involved in designing the high level design of the project using Microsoft Visio and came up with the business architecture of the project.",
+        "Developed stored procedures, Views, Functions and Triggers in SQL.",
+        "Developed SSIS packages for data transformation and loading.",
+        "Created reports using SSRS reporting tool.",
+        "Designing and developing web application using ASP, ASP.NET, WCF, HTML and JavaScript.",
+        "Designing and developing portal application using Dotnetnuke and SharePoint WSS 3.0",
+        "Created web services using .NET web service and WCF web service factory.",
+        "Created the business orchestration in BizTalk Orchestration designer involving SOAP Adapter and SQL Data adapter and deployed the same in BizTalk server 2006 R2.",
+        "Worked in the CSS style sheets as per the UX design requirements.",
+        "Configuring the issue tracker for the project using the ASP.Net issue Tracker portal.",
+        "Implementing the retail page using the Microsoft Commerce Server 2007.",
+        "Worked in the Business and Data Logic Layer.",
+        "Involved in release documentation, CMM level documentation and activities.",
+        "Worked in the Security and authorization module of the application.",
+        "Involved in the XML file uploading to data base.",
+        "Customized the SharePoint site by creating new site template and master page.",
+        "Created web parts and workflow for SharePoint file submission using Visual Studio 2005 Workflow templates",
+        "Involved in setting up and deployment to development, testing and production environment.",
+        "Coordinating with the client development team for deployment of production changes.",
+        "Involving in configuration management of the project using team foundation server (TFS) , SVN and CVS",
+        "Creating the unit test cases and performed unit testing.",
+        "TECHNOLOGIES USED IN THIS PROJECT: ASP.NET 1.1, ASP.NET 2.0,ASP.NET 3.5, C# , JavaScript , HTML Controls, CSS, SQL SERVER 2005, BizTalk ,SSIS, SSRS, Sharepoint WSS 3.0, WCF, Web Service Factory, Visual Studio, DotNetNuke,  VBScript, HTML, CSS, ASP, SQL Server 200, DTS"
+      ],
+      "Location": "Chennai,India"
+
+    }
+  ],
+  "Education": "Bachelor of Engineering - Electronics and Communication"
+
+} 

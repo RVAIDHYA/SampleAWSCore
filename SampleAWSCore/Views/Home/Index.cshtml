@@ -1,0 +1,146 @@
+﻿@model SampleAWSCore.ViewModels.HomeViewModel
+
+
+
+   
+
+    <nav>
+
+        <div class="nav">
+            <ul id="lstmenu">
+                <li><a href="#" id="menuAbout" class="active">About Me</a></li>
+                <li><a href="#" id="menuProfessionalSummary">Professional Summary</a></li>
+                <li><a href="#" id="menuTechnology">Technology Stack</a></li>
+                <li> <a href="#" id="menuCareer">Career</a></li>
+                <li> <a href="#" id="menuEducation">Education</a></li>
+            </ul>
+
+        </div>
+
+    </nav>
+    <main>
+
+
+
+        <section>
+
+
+
+            <div id="divAbout">
+                <h2>About Me</h2>
+                <p>@Model.resume.About</p>
+            </div>
+            <div id="divSummary">
+                <div>
+                    <h2>Profile Summary</h2>
+                    <ul class="summary">
+                        @foreach (var summary in Model.resume.ProfileSummary)
+                        {
+                            <li>@summary</li>
+                        }
+                    </ul>
+                </div>
+            </div>
+            <div id="divTechnology">
+                <h2>Technology Stack</h2>
+                <table class="table table-bordered">
+                    <tbody>
+                        @foreach (var tech in Model.resume.TechnologyStack)
+                        {
+
+                            <tr>
+
+                                <th scope="row">@tech.Key</th>
+                                <td>@tech.Value</td>
+
+
+                            </tr>
+
+                        }
+
+
+                    </tbody>
+
+                </table>
+
+            </div>
+            <div id="divCareer">
+                <h2>Career Summary</h2>
+                <table class="table table-bordered">
+                    <tbody>
+                        @foreach (var project in Model.resume.Projects)
+                        {
+
+                            <tr>
+
+                                <th scope="row">@project.StartDate.ToString("Y") - @project.EndDate.ToString("Y")</th>
+                                <td>
+                                    <div>
+                                        <h6> @project.Designation</h6>
+
+                                        <h5>
+                                            @project.Company ,@project.Location
+                                        </h5>
+                                        <div>
+                                            <ul>
+                                                @foreach (var role in project.RolesPerformed)
+                                                {
+                                                    <li>@role</li>
+                                                }
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </td>
+
+
+                            </tr>
+
+                        }
+
+
+                    </tbody>
+
+                </table>
+
+            </div>
+            <div id="divEducation">
+                <h2> Training and Education</h2>
+                @Model.resume.Education
+            </div>
+
+
+        </section>
+
+    </main>
+
+
+   
+
+
+    <script>
+        window.onscroll = function () { myFunction() };
+
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+
+        function myFunction() {
+            if (window.pageYOffset >= sticky) {
+                header.classList.add("sticky");
+            } else {
+                header.classList.remove("sticky");
+            }
+        }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
